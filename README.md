@@ -21,6 +21,7 @@ A sample of my recent articles:
 <!-- BLOG-POST-LIST:START -->
 - [Comparison of ongoing COVID-19 pandemic confirmed cases/deaths weekly forecasts on continental basis using R statistical models](https://dergipark.org.tr/en/pub/dumf/issue/65099/1002160)
 - [Perform Time-series Predictions in the R Development Environment by Combining Statistical-based Models with a Decomposition-based Approach](https://dergipark.org.tr/en/pub/maummfd/issue/65868/1027382)
+- - [Metinden grafik ağa nasıl dönüştürülür ?](https://medium.com/@cybersteinmicro/metinden-grafik-a%C4%9Fa-nas%C4%B1l-d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCl%C3%BCr-286d1b8523cd)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
