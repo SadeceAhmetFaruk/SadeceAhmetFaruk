@@ -17,11 +17,6 @@ My name is Ahmet Faruk PALA and I'm a part time software engineer/full life stud
 
 
 A sample of my recent articles:
-
-
-https://user-images.githubusercontent.com/65506131/163702804-7da0f8e6-1ae4-454b-bb96-c6e2b35393ce.mp4
-
-
 <!-- BLOG-POST-LIST:START -->
 - [Comparison of ongoing COVID-19 pandemic confirmed cases/deaths weekly forecasts on continental basis using R statistical models](https://dergipark.org.tr/en/pub/dumf/issue/65099/1002160)
 - [Perform Time-series Predictions in the R Development Environment by Combining Statistical-based Models with a Decomposition-based Approach](https://dergipark.org.tr/en/pub/maummfd/issue/65868/1027382)
