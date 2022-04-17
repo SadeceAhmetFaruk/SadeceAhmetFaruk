@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/65506131/163702804-7da0f8e6-1ae4-454b-
 - - [Metinden grafik ağa nasıl dönüştürülür ?](https://medium.com/@cybersteinmicro/metinden-grafik-a%C4%9Fa-nas%C4%B1l-d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCl%C3%BCr-286d1b8523cd)
 <!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; GitHub Stats
+GitHub Stats
 
 <a href="https://github.com/SadeceAhmetFaruk/BelkiSadeceFaruk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeceAhmetFaruk&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -36,6 +36,8 @@ https://user-images.githubusercontent.com/65506131/163702804-7da0f8e6-1ae4-454b-
 <a href="https://github.com/SadeceAhmetFaruk/BelkiSadeceFaruk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadeceAhmetFaruk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+                                 
+      ![8bit-bit](https://user-images.githubusercontent.com/65506131/163702852-f771fe0a-5638-46f9-b23b-a60c58a3a1d3.gif)
 
 
 <!-- links to social media icons -->
@@ -50,6 +52,7 @@ https://user-images.githubusercontent.com/65506131/163702804-7da0f8e6-1ae4-454b-
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+        
 
 
 <!-- links to your social media accounts -->
