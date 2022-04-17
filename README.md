@@ -15,8 +15,12 @@ My name is Ahmet Faruk PALA and I'm a part time software engineer/full life stud
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-https://tenor.com/bLA2H.gif
+
 A sample of my recent articles:
+
+
+https://user-images.githubusercontent.com/65506131/163702804-7da0f8e6-1ae4-454b-bb96-c6e2b35393ce.mp4
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Comparison of ongoing COVID-19 pandemic confirmed cases/deaths weekly forecasts on continental basis using R statistical models](https://dergipark.org.tr/en/pub/dumf/issue/65099/1002160)
