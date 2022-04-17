@@ -15,7 +15,7 @@ My name is Ahmet Faruk PALA and I'm a part time software engineer/full life stud
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-
+<div class="tenor-gif-embed" data-postid="23697797" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/space-pixel-art-falling-star-gif-23697797">Space Pixel Art GIF</a>from <a href="https://tenor.com/search/space-gifs">Space GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
