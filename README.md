@@ -14,7 +14,7 @@ My name is Ahmet Faruk PALA and I'm a part time software engineer/full life stud
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
+https://img.shields.io/github/stars/sadeceahmetfaruk/ParalellNaiveBayes?style=social
 
 A sample of my recent articles:
 <!-- BLOG-POST-LIST:START -->
